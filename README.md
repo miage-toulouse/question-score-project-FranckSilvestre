@@ -3,8 +3,8 @@
 ### NOM : SILVESTRE
 ### Prénom : Franck
 ### Groupe de TP : 
-- [X] 1
-- [ ] 2
+- [ ] 1
+- [X] 2
 - [ ] 3
 
 
